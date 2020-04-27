@@ -342,4 +342,4 @@ Splits: 17 total, 17 done (100.00%)
 0:02 [0 rows, 0B] [0 rows/s, 0B/s]
 ```
 
-源码详见[GitHub](https://github.com/EdurtIO/tutorial/presto/presto-functions-scalar)
+源码详见[GitHub](https://github.com/EdurtIO/tutorial/tree/master/presto/presto-functions-scalar)
