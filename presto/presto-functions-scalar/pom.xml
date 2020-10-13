@@ -16,7 +16,7 @@
     <properties>
         <java.version>1.8</java.version>
         <dependency.presto.version>0.235-SNAPSHOT</dependency.presto.version>
-        <dependency.junit.version>4.12</dependency.junit.version>
+        <dependency.junit.version>4.13.1</dependency.junit.version>
         <plugin.maven.compiler.version>2.3.2</plugin.maven.compiler.version>
     </properties>
 
